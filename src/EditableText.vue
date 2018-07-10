@@ -12,6 +12,7 @@
     @keyup.escape.stop="sel_abort"
     @keyup.stop
     @keydown="log"
+    @keydown.delete.stop
   ><span
   v-else
   ref="input2"

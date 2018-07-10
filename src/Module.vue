@@ -4,6 +4,7 @@
         style="min-height: 80vh; "
         tabindex="-1"
         @keyup.stop="onKey"
+        @keydown.delete.prevent.stop
         @click.stop="focus">
     <div v-for="(s, idx) in data.body">
       <nodecomp :data="s" ref="elmts" :parent="thisNode" :idx="idx"></nodecomp>
