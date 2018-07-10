@@ -4,32 +4,14 @@
 
 ![vrite screenshot](doc/screenshot.png)
 
-## Build Setup
+[Try it yourself](https://fkohlgrueber.github.io/vrite/)
 
-``` bash
-# install dependencies
-npm install
+This is very early work and a lot of things are going to change.
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Feedback / Questions
 
-# build for production with minification
-npm run build
+Feel free to contact me with anything regarding this project. You can send me an [e-mail](mailto:felix.kohlgrueber@gmail.com) or reach out on twitter [@fkohlgrueber](https://twitter.com/fkohlgrueber).
 
-# build for production and view the bundle analyzer report
-npm run build --report
+## Development setup
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-
-# push project dist folder to github pages
-git subtree push --prefix dist origin gh-pages
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+See [setup.md](setup.md).
