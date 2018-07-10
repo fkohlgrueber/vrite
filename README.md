@@ -2,6 +2,8 @@
 
 > An experimental AST-based structure editor for python
 
+![vrite screenshot](doc/screenshot.png)
+
 ## Build Setup
 
 ``` bash
