@@ -4,7 +4,9 @@
 
 ![vrite screenshot](doc/screenshot.png)
 
-[Try it yourself](https://fkohlgrueber.github.io/vrite/)
+[Try it yourself](https://fkohlgrueber.github.io/vrite/) 
+
+[Short Presentation](doc/vrite_2018_07_10.pdf) (Python Meetup Karlsruhe 2018/07/10)
 
 This is very early work and a lot of things are going to change.
 
